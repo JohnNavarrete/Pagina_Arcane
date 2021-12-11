@@ -24,9 +24,9 @@ h1 {
 }
 
 .contenedor-personaje img {
-  margin: 0px auto;
-  display: block;
+  float: left;
   width: 40%;
+  margin-right: 8px;
 }
 
 .contenedor-texto p {

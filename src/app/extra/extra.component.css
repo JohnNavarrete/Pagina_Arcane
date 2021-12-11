@@ -1,0 +1,38 @@
+* {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+h1 {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 50px;
+}
+
+h3 {
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  font-size: 32px;
+}
+
+.container-extra {
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-gap: 15px;
+}
+
+.container-img img {
+  width: 100%;
+}
+
+.iframe-class {
+  display: flex;
+  justify-content: center;
+}
+
+iframe {
+  width: 55%;
+  height: 500px;
+  margin-bottom: 8%;
+  margin-top: 3%;
+}
